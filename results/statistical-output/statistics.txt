@@ -1,0 +1,20 @@
+======================================================================
+STATISTICAL ANALYSIS: HIM-23 Metacognitive Awareness
+Generated: 2026-05-10 04:29:57
+======================================================================
+
+One-way ANOVA (Accuracy ~ Condition): F(3, 136) = 22.84, p < .001
+  No Metacognitive Support: M = 0.6522
+  Confidence Rating: M = 0.7081
+  Prediction + Feedback: M = 0.7794
+  Full Metacognitive Training: M = 0.7973
+
+ANOVA (Overconfidence ~ Condition): F(3, 136) = 5.85, p < .001
+  No Metacognitive Support: M = 0.1205
+  Confidence Rating: M = 0.1086
+  Prediction + Feedback: M = 0.0481
+  Full Metacognitive Training: M = 0.0501
+
+ANOVA (Metacognitive Accuracy ~ Condition): F(3, 136) = 41.08, p < .001
+
+Metacognitive accuracy × overconfidence correlation: r = -0.3230
